@@ -6,19 +6,20 @@ But what about pushing a little bit these limits ?
 
 ## Here’s the rules
 
-Take a list of numbers from 1 to 1000, and with the first 10 primes starting at 3, apply thee following rules for each input number of the list:
+Take a list of numbers from 1 to 1000, and apply these rules for each input number:
 
-* When multiple of 3, return “Foo”,
-* When multiple of 5, return “Bar”,
-* When multiple of 7, return “Baz”,
-* When multiple of 11, return “Qux”,
-* When multiple of 13, return “Quux”,
-* When multiple of 17, return “Corge”,
-* When multiple of 19, return “Grault”,
-* When multiple of 23, return “Garply”,
-* When multiple of 29, return “Waldo”,
-* When multiple of 31, return “Fred”
-* When multiple of more than one of these, apply the rules, and concatenate the values
+* When number is a multiple of 3, return “Foo”,
+* When number is a multiple of 5, return “Bar”,
+* When number is a multiple of 7, return “Baz”,
+* When number is a multiple of 11, return “Qux”,
+* When number is a multiple of 13, return “Quux”,
+* When number is a multiple of 17, return “Corge”,
+* When number is a multiple of 19, return “Grault”,
+* When number is a multiple of 23, return “Garply”,
+* When number is a multiple of 29, return “Waldo”,
+* When number is a multiple of 31, return “Fred”
+* When an input number is a multiple of more than one of these rule numbers: 
+    * apply all matching rules, and concatenate the values
 * Otherwise, return the number
 
 Discuss the design issues and problems involved by the great number of cases.
