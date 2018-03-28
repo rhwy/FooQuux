@@ -32,7 +32,7 @@ Exercice variants:
 
 ## References
 
-* [Original FizzBuzz] (http://codingdojo.org/kata/FizzBuzz/)
-* [Variant FooBarQix] (http://codingdojo.org/kata/FooBarQix/)
-* [Etymology of "Foo"] (https://www.ietf.org/rfc/rfc3092.txt)
-* [Metasyntactic variable] (https://en.wikipedia.org/wiki/Metasyntactic_variable)
+* [Original FizzBuzz](http://codingdojo.org/kata/FizzBuzz/)
+* [Variant FooBarQix](http://codingdojo.org/kata/FooBarQix/)
+* [Etymology of "Foo"](https://www.ietf.org/rfc/rfc3092.txt)
+* [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable)
