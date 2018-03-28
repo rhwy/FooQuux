@@ -29,3 +29,10 @@ Exercice variants:
 2. Start with all the rules from scratch to see the impact on your initial design
 3. Do the exercice without any loop or conditional instructions (no for, while, if, then, switch, etc…)
 
+
+## References
+
+* [Original FizzBuzz] (http://codingdojo.org/kata/FizzBuzz/)
+* [Variant FooBarQix] (http://codingdojo.org/kata/FooBarQix/)
+* [Etymology of "Foo"] (https://www.ietf.org/rfc/rfc3092.txt)
+* [Metasyntactic variable] (https://en.wikipedia.org/wiki/Metasyntactic_variable)
