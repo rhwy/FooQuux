@@ -19,7 +19,7 @@ Take a list of numbers from 1 to 1000, and with the first 10 primes starting at 
 * When multiple of 29, return “Waldo”,
 * When multiple of 31, return “Fred”
 * When multiple of more than one of these, apply the rules, and concatenate the values
-* Overwise, return the number
+* Otherwise, return the number
 
 Discuss the design issues and problems involved by the great number of cases.
 
